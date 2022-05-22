@@ -5,7 +5,7 @@
     "learning_rate": 0.00003,
     "adam_b1": 0.8,
     "adam_b2": 0.99,
-    "lr_decay": 1.1,
+    "lr_decay": 0.995,
     "seed": 1234,
 
     "upsample_rates": [8,8,2,2],
